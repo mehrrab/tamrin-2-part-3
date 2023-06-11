@@ -1,0 +1,36 @@
+
+body{
+    margin-top: 0;
+}
+
+h1{
+    font-family: Georgia;
+    color: blue;
+    background-color: lightgray;
+    font-weight: bolder;
+    font-size: 24px;
+    letter-spacing: 1.6em;
+    word-spacing: 2em;
+    text-align: center;
+    padding-top: 0;
+}
+h2{
+     font-family: Georgia;
+     color: darkred;
+     font-size: 18px;
+     letter-spacing: 1.4em;
+}
+p{
+    font-family: Arial ;
+    color: black;
+    font-size: 16px;
+}
+
+.tdy{
+    font-weight:bolder;
+    padding-left: 10px;
+}
+.tdp{
+    padding-left: 20px;
+}
+
